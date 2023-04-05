@@ -1,0 +1,38 @@
+.pro{
+    background-color: red;
+    width: 100%;
+    height: 260px
+
+}
+.h1{
+    text-align:left;
+    font-family: 'Times New Roman', Times, serif;
+    padding:2px
+}
+.des{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.red1{
+    background-color: rgb(155, 155, 190);
+    width: 50%;
+    float: left;
+    height: 260px;
+    /* border-radius: 50px; */
+    padding: 1%;
+}
+.red2{
+    background-color: rgb(155, 155, 190);
+    display: flex;
+    width: 50%;
+    float: right;
+    height: 100%;
+    padding: 1.5% 5%;
+}
+.primg{
+    width: 100%;
+    
+}
+
